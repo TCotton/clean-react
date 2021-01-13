@@ -5,17 +5,10 @@
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 
-# **4Dev React - Enquetes para Programadores**
-
-[![alt text](./public/course-logo.png "Link para o treinamento")](https://www.udemy.com/course/react-com-mango/?referralCode=552F88858EAE76346C8B)
-
+# **ReactJS Clean Architecture**
 ---
 
-## [**Link para o curso completo**](https://www.udemy.com/course/react-com-mango/?referralCode=552F88858EAE76346C8B)
-
-Essa sistema faz parte do treinamento do professor Rodrigo Manguinho (Mango) na Udemy.
-
-O objetivo do treinamento é mostrar como criar um sistema em ReactJs utilizando os novos Hooks, Recoil, com uma arquitetura bem definida e desacoplada, utilizando TDD (programação orientada a testes) como metodologia de trabalho, Clean Architecture para fazer a distribuição de responsabilidades em camadas, sempre seguindo os princípios do SOLID, DRY, YAGNI, KISS e aplicando Design Patterns para resolver alguns problemas comuns.
+The purpose of this application was to build a well-defined and decoupled architecture, using TDD as the working methodology, Clean Architecture to distribute responsibilities in layers, always following the principles of SOLID and, whenever possible, applying Design Patterns to solve some common problems.
 
 ## [**Link para a documentação da API**](http://fordevs.herokuapp.com/api-docs)
 
